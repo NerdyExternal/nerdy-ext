@@ -7,7 +7,7 @@ import { useAccount } from '@/context/AccountContext';
 gsap.registerPlugin(ScrollTrigger);
 
 // Discord invite link - replace with your actual invite
-const DISCORD_INVITE = 'https://discord.gg/yourserver';
+const DISCORD_INVITE = 'https://discord.com/invite/SkfgAXYHGY';
 
 export default function HeroSection() {
   const sectionRef = useRef<HTMLElement>(null);
