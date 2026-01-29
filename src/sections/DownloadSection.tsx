@@ -328,7 +328,7 @@ export default function DownloadSection() {
           </span>
           <span className="flex items-center gap-2 text-sm text-[#5A6B5A]">
             <Check size={14} className="text-[#2CFF2C]" />
-            External only
+            External & Script
           </span>
         </div>
       </div>
