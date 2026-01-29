@@ -3,8 +3,7 @@ import { useAccount } from '@/context/AccountContext';
 import { User, LogOut, Menu, X, MessageCircle } from 'lucide-react';
 import { gsap } from 'gsap';
 
-// Discord invite link - replace with your actual invite
-const DISCORD_INVITE = 'https://discord.gg/yourserver';
+const DISCORD_INVITE = 'https://discord.com/invite/SkfgAXYHGY';
 
 export default function Navigation() {
   const { isLoggedIn, user, logout, setShowAuthModal, setAuthMode } = useAccount();
