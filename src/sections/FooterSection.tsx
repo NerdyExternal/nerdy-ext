@@ -10,7 +10,7 @@ import {
 } from 'lucide-react';
 
 // Discord invite link - replace with your actual invite
-const DISCORD_INVITE = 'https://discord.gg/yourserver';
+const DISCORD_INVITE = 'https://discord.com/invite/SkfgAXYHGY';
 
 const faqs = [
   {
