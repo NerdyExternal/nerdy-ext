@@ -7,7 +7,7 @@ import { useAccount } from '@/context/AccountContext';
 gsap.registerPlugin(ScrollTrigger);
 
 // Discord invite link - replace with your actual invite
-const DISCORD_INVITE = 'https://discord.gg/yourserver';
+const DISCORD_INVITE = 'https://discord.com/invite/SkfgAXYHGY';
 
 const steps = [
   { number: '1', title: 'Download', description: 'Get the latest version', icon: Download },
